@@ -21,6 +21,7 @@ export PATH=~/opt/bin:$PATH
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 apt install npm
 npm install npm@latest -g
+npm install dotenv
 ```
 ```
 git clone https://github.com/alteregogi/ineryjs.git
