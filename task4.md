@@ -11,6 +11,7 @@
 
 ```
 sudo apt update
+apt install dotenv
 sudo apt-get install curl
 sudo apt install nodejs npm
 curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
